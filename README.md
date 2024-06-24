@@ -76,4 +76,4 @@
 
 ### Thanks for Visiting!
 
-Feel free to check out my repositories and connect with me. Happy coding! 🚀
+Check out my repositories and connect with me. Happy coding! 🚀
